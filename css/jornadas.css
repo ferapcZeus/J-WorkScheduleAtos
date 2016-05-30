@@ -1,0 +1,158 @@
+#seccion
+{
+	float:left;
+}
+.Leyenda{
+	/*margin-left:10%;*/
+	background: none;
+	width: 60%;
+ margin: 0 auto;
+}
+.leyenda{
+	width: auto;
+ margin: 0 auto;
+	background: none;
+	border:none;
+
+}
+
+
+.Leyenda td{
+
+padding-left: 12px;
+}
+
+
+.Leyenda h4{
+
+text-align: center;
+font-weight: bold;
+font-size: 1.01em;
+
+
+}
+
+.leyenda  {
+
+/*background: #839CBB;
+*/border-radius: 2%;
+}
+
+.Leyenda h4{
+
+border-radius: 8%;
+text-align: center;
+
+}
+.jornada-default{
+cursor: pointer;
+width: 45px;
+height: 45px;
+color:white;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 3.2em;
+  line-height: 1.6em;
+  display:block;
+  font-size: 13px;
+
+	 
+	 border-radius: 100px;
+	-moz-border-radius: 100px; 
+	-webkit-border-radius: 100px;
+	
+	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+	-moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+	 box-shadow:        7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+
+
+}
+.jornada-festejos{
+cursor:url("../img/Info.png"), auto !important;
+width: 45px;
+height: 45px;
+background:#C9BEBC;
+  display:block;
+  font-size: 45px;
+	 border-radius: 100px;
+	-moz-border-radius: 100px; 
+	-webkit-border-radius: 100px;
+	
+	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+	-moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+	 box-shadow:        7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+
+
+}
+
+
+.jornada-borrar{
+cursor: pointer;
+width: 45px;
+height: 45px;
+font-weight:;
+color:black;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 3.2em;
+  line-height: 3em;
+  display:block;
+  font-size: 13px;
+
+	 
+	 border-radius: 100px;
+	-moz-border-radius: 100px; 
+	-webkit-border-radius: 100px;
+	
+	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+	-moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+	 box-shadow:        7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+
+
+}
+.jornada-holiday
+{
+	cursor: pointer;
+	width: 45px;
+	height: 45px;
+	font-weight:;
+	color:black;
+	text-overflow: ellipsis;
+	word-wrap: break-word;
+	overflow: hidden;
+	max-height: 3.2em;
+	line-height: 3em;
+	display:block;
+	font-size: 13px;
+	 border-radius: 100px;
+	-moz-border-radius: 100px; 
+	-webkit-border-radius: 100px;
+	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+	-moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+	 box-shadow:        7px 7px 5px 0px rgba(50, 50, 150, 0.25);
+	 
+	background:url("../img/holidayIcon.png") no-repeat center;
+	background-color: #e1e1e1;
+}
+
+
+.jornada-realiza{
+   border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  display: inline-block;
+  width: 1.2em; 
+  height: 1.2em;
+}
+
+.jornada-realiza2{
+	background:blue;
+   border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  display: inline-block;
+  width: 1.2em; 
+  height: 1.2em;
+}

@@ -1,0 +1,199 @@
+
+
+.quitar-float{
+	float: none;
+}
+
+.padding-arriba{
+
+padding-top: 60px;
+
+}
+.form-horizontal {
+
+padding-top: 20px;
+
+
+}
+
+.img-logo{
+
+margin-left: -100px;
+
+width: 150%;
+height: 150%;
+margin-left: -45px;
+
+ }
+
+.imglogo {
+
+margin-left: 55%;
+margin-bottom: 1px;
+border-radius: 15px;
+}
+.imagen{
+
+	width: 500px;
+	height: 100px;
+}
+
+
+ .bt-acceder{
+
+
+
+margin-top: 10px;
+
+}
+
+body {
+
+
+	background-color:
+	 ;
+}
+.aa img{
+
+
+border-radius:15px;
+box-shadow: #808080 3px 5px  12px 1px ;
+}
+.logoatos001{
+
+margin-top:10px ;
+
+}
+
+
+
+.retraso2{
+ -webkit-animation-delay:1.0s;
+ -moz-webkit:animation-delay:1.0s ;
+ -ms-webkit:animation-delay:1.0s ;
+ -animation-delay:1.0s;
+	 }
+
+
+.Jwork{
+
+margin-left: 690px;
+width: 10%;
+
+}
+.ideadelogo{
+
+margin-left: 200px;
+
+}
+.col-md-2
+{
+	width: 12.66666667%;
+}
+.navbar{
+margin-bottom: 0px;
+}
+
+.jumbotron{
+padding-bottom: 10px;
+margin-bottom: -125px;
+}
+
+.jumbotron .container img{
+margin-top: -30px;
+border-radius:25px;
+box-shadow: #808080 0px 5px  5px 5px ;
+margin-left: 400px;
+
+
+}
+
+.navbar-nav {
+
+
+margin-left: -150px;
+
+}
+
+
+.navbar-nav li {
+
+padding-left: 100px;
+
+}
+
+
+/*.aside-usuarioYgrupo {
+
+border: 1px dashed blue;
+margin-top: 30px;
+border:1px solid green;
+}*/
+.menu-grupo-izquierda  {
+
+/*border: 1px dashed red;*/
+
+
+}
+
+.container-calendario{
+
+/*border: 2px dashed blue;
+*/float:none;
+margin-left: 5px;
+margin-top:-150px;
+}
+
+
+
+.grupo{
+
+/*border:1px solid red;
+*/	margin-top: -14px
+}
+
+.eligegrupo{
+
+border-radius: 10px;
+width: 120px;
+text-align: center;
+margin-left: 25px;
+
+}
+
+.calandarioiframe{
+margin-top: -30px;
+
+margin-left: -20px;
+	width: 1250px;
+	height: 900px;
+}
+
+
+
+tr {
+
+height: 42px;
+
+
+}
+
+th{
+
+border-radius: px;
+height: 36px}
+
+input {
+	text-align:center;
+}
+/*.grupo{
+border: 2px dashed green;
+}*/
+
+.img{
+
+	width: 120%;
+	height: 90%;
+	line-height: 210px;
+	margin-left: 23%;
+}
